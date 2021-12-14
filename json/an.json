@@ -1,0 +1,25 @@
+[
+	{
+		"navn": "Animate Basis del 1",
+		"img": "img/Animate-Basis.jpg",
+		"id": 0
+	},
+	
+	{
+		"navn": "Animate Basis del 2",
+		"img": "img/Animate-Basis.jpg",
+		"id": 1
+	},
+	
+	{
+		"navn": "Animate Basis del 3",
+		"img": "img/Animate-Basis.jpg",
+		"id": 2
+	},
+	
+	{
+		"navn": "Animate Basis del 4",
+		"img": "img/Animate-basis.jpg",
+		"id": 3
+	}
+]

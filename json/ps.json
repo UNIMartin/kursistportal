@@ -1,0 +1,49 @@
+[
+	{
+		"navn": "Photoshop Basis del 1",
+		"img": "img/Photoshop-Basis.jpg",
+		"id": 0
+	},
+	
+	{
+		"navn": "Photoshop Basis del 2",
+		"img": "img/Photoshop-Basis.jpg",
+		"id": 1
+	},
+	
+	{
+		"navn": "Photoshop Basis del 3",
+		"img": "img/Photoshop-Basis.jpg",
+		"id": 2
+	},
+	
+	{
+		"navn": "Photoshop Basis del 4",
+		"img": "img/Photoshop-basis.jpg",
+		"id": 3
+	},
+	
+	{
+		"navn": "Photoshop Rutineret del 1",
+		"img": "img/Photoshop-rutineret.jpg",
+		"id": 4
+	},
+	
+	{
+		"navn": "Photoshop Rutineret del 2",
+		"img": "img/Photoshop-rutineret.jpg",
+		"id": 5
+	},
+	
+	{
+		"navn": "Photoshop Rutineret del 3",
+		"img": "img/Photoshop-rutineret.jpg",
+		"id": 6
+	},
+	
+	{
+		"navn": "Photoshop Rutineret del 4",
+		"img": "img/Photoshop-rutineret.jpg",
+		"id": 7
+	}
+]

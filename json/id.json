@@ -1,0 +1,49 @@
+[
+	{
+		"navn": "InDesign Basis del 1",
+		"img": "img/InDesign-Basis.jpg",
+		"id": 0
+	},
+	
+	{
+		"navn": "InDesign Basis del 2",
+		"img": "img/InDesign-Basis.jpg",
+		"id": 1
+	},
+	
+	{
+		"navn": "InDesign Basis del 3",
+		"img": "img/InDesign-Basis.jpg",
+		"id": 2
+	},
+	
+	{
+		"navn": "InDesign Basis del 4",
+		"img": "img/InDesign-basis.jpg",
+		"id": 3
+	},
+	
+	{
+		"navn": "InDesign Rutineret del 1",
+		"img": "img/InDesign-rutineret.jpg",
+		"id": 4
+	},
+	
+	{
+		"navn": "InDesign Rutineret del 2",
+		"img": "img/InDesign-rutineret.jpg",
+		"id": 5
+	},
+	
+	{
+		"navn": "InDesign Rutineret del 3",
+		"img": "img/InDesign-rutineret.jpg",
+		"id": 6
+	},
+	
+	{
+		"navn": "InDesign Rutineret del 4",
+		"img": "img/InDesign-rutineret.jpg",
+		"id": 7
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"navn": "Premiere Rush del 1",
+		"img": "img/Premiere-Rush.jpg",
+		"id": 0
+	},
+	
+	{
+		"navn": "Premiere Rush del 2",
+		"img": "img/Premiere-Rush.jpg",
+		"id": 1
+	},
+	
+	{
+		"navn": "Premiere Rush del 3",
+		"img": "img/Premiere-Rush.jpg",
+		"id": 2
+	},
+	
+	{
+		"navn": "Premiere Rush del 4",
+		"img": "img/Premiere-Rush.jpg",
+		"id": 3
+	}
+]

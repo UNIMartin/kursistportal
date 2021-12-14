@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+:root {
+	--black: rgb(51, 49, 50);
+	--black-75: rgba(51, 49, 50, 0.75);
+	--black-50: rgba(51, 49, 50, 0.5);
+	--black-25: rgba(51, 49, 50, 0.25);
+	--red: rgb(218, 33, 40);
+	--dark-red: rgb(172, 22, 27);
+	--teal: rgb(120, 205, 209);
+	--grey: rgb(238, 238, 238);
+	--dark-grey: rgb(223, 220, 220);
+	--font-family: Lato, Helvetica, sans-serif;
+}
+
+html {
+	font-family: var(--font-family);
+	background-color: var(--grey);
+}
+
+h1 {
+	font-size: 50px;
+	font-style: italic;
+	margin-left: 50px;
+	color: var(--dark-red);
+}
+
+.underside-titel {
+	margin-left: 130px;
+}
+
+
+/* ---------- topbar ---------- */
+header {
+	background-color: var(--black-75);
+	z-index: 1;
+	display: flex;
+	flex-direction: column;
+	color: white;
+}
+.material-icons {
+	margin-left: 20px;
+	color: var(--teal);
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+#kontakt-info {
+	display: flex;
+}
+
+.link-img {
+	width: 20px;
+	height: 20px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+#links {
+	display: flex;
+}
+
+
+/* ---------- navbar ---------- */
+nav {
+	z-index: 1;
+	display: flex;
+	justify-content: space-between;
+	background-color: var(--red);
+	height: 100px;
+}
+
+#logo {
+	height: 80px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: white;
+}
+
+#navigation {
+	margin-top: 32px;
+}
+
+.nav-button {
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+	margin: 20px;
+	background-color: var(--red);
+	padding: 32px;
+}
+
+.nav-button:hover {
+	background-color: var(--dark-red);
+}
+
+.aktiv {
+	background-color: var(--dark-red);
+}
+
+
+/* ---------- velkomst ---------- */
+#broedtekst {
+	font-size: 30px;
+	margin-left: 70px;
+	width: 700px;
+	color: var(--black);
+}
+
+
+/* ---------- tutorials ---------- */
+#programmenu {
+	background-color: white;
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+li {
+	list-style: none;
+}
+
+#programmer {
+	display: flex;
+	flex-direction: column;
+}
+
+.programs {
+	text-decoration: none;
+	color: var(--black-50);
+	background-color: var(--dark-grey);
+	width: 350px;
+	font-size: 20px;
+	display: flex;
+	padding-top: 20px;
+}
+
+.programs:hover {
+	background-color: white;
+}
+
+.program {
+	height: 80px;
+	padding: 10px;
+	margin-top: -15px;
+}
+
+.aktiv-tutorial {
+	background-color: white;
+}
+
+.opgave {
+	color: var(--black);
+	margin-left: 500px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-right: 150px;
+	text-align: center;
+	margin-top: -1250px;
+}
+.opgave img {
+	width: 300px;
+	margin-bottom: 50px;
+}
+.opgave img:hover {
+	opacity: 50%;
+}
